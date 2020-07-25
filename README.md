@@ -5,5 +5,5 @@ Google Drive saves PDF files in read-only mode as individual page images. The wa
 a given document, convert each page to an image, and write this to a PDF file. 
 
 To use, first open the Drive PDF file, open the Console tab for the webpage, paste the contents of **ConsoleScript.js** and run. 
-Afterwards, download the generated file and run the **CompilePDF.cmd** file. This specific one is written for windows but writing
+Afterwards, download the generated file and run the **CompilePDF.cmd** file. This specific one is written for Windows but writing
 one for Linux is a one-liner. 
